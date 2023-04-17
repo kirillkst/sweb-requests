@@ -1,0 +1,5 @@
+.sweb-requests {
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+}
